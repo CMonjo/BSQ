@@ -1,0 +1,4 @@
+USAGE
+	./bsq map
+DESCRIPTION
+	Find the biggest square.
