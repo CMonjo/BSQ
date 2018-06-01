@@ -12,7 +12,7 @@ Epitech's BSQ project in C language.
 
 Navigate to the root of the repository from your Terminal and run make to build the BSQ executable file.
 
-Then you have to execute with a map as argument. You can find a map in the "map" directory.
+Then you have to execute with a map as argument. You can find a map in the "maps" directory.
 
 ## Author
 
